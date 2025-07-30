@@ -4,7 +4,7 @@ These tests are meant to **assess your competencies**. It is important for both 
 
 ## How to solve the test
 
-First of all read the whole readme file and make sure you understand what is expected from you. If you have any questions regarding the tasks, handing in the solution, or you need any other guidance (like clarifications), collect your questions and send it to your assessor (you will receive the assessor's contact information in a separate e-mail).
+First of all read the whole readme file and **make sure you understand** what is expected from you. If you have **any questions** regarding the tasks, handing in the solution, or you need any other guidance (like clarifications), collect your questions and send it to your assessor (you will receive the assessor's contact information in a separate e-mail).
 
 ## Environment creation
 
