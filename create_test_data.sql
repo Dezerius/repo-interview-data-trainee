@@ -1,7 +1,7 @@
 -- Drop tables if they exist
-DROP TABLE IF EXISTS Employees;
-DROP TABLE IF EXISTS Projects;
-DROP TABLE IF EXISTS Tasks;
+DROP TABLE IF EXISTS Employee;
+DROP TABLE IF EXISTS Project;
+DROP TABLE IF EXISTS Task;
 
 -- Create Employees table
 CREATE TABLE Employee (
